@@ -1,0 +1,35 @@
+export const attendees = [
+  {
+    id: "IDEA001",
+    name: "Ahmed Mohamed",
+    role: "Student",
+    track: "Backend",
+    university: "Helwan University",
+    email: "ahmed@example.com",
+    checkedIn: true,
+  },
+  {
+    id: "IDEA002",
+    name: "Mariam Ali",
+    role: "HR",
+    company: "Vodafone Egypt",
+    email: "mariam@example.com",
+    checkedIn: true,
+  },
+  {
+    id: "IDEA003",
+    name: "Omar Hassan",
+    role: "VIP",
+    organization: "Microsoft",
+    email: "omar@example.com",
+    checkedIn: false,
+  },
+  {
+    id: "IDEA004",
+    name: "Sara Mahmoud",
+    role: "Organizer",
+    department: "Logistics",
+    email: "sara@example.com",
+    checkedIn: true,
+  },
+];
