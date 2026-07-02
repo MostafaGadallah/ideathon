@@ -34,7 +34,7 @@ function Scanner() {
       "reader",
       {
         fps: 10,
-        qrbox: 450,
+        qrbox: 200,
       },
       false
     );
