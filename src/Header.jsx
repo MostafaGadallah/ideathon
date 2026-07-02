@@ -28,12 +28,12 @@ function Header() {
           </p>
 
           <div className="flex gap-4 mt-8">
-            <a
-              href="/registration"
+            <Link
+              to"
               className="bg-[#462c38] text-white px-6 py-3 rounded-lg hover:opacity-90 transition"
             >
               Register Now
-            </a>
+            </Link>
 
             <a
               href="/ats-cv-builder"
