@@ -35,12 +35,12 @@ function Header() {
               Register Now
             </Link>
 
-            <a
-              href="/ats-cv-builder"
+            <Link
+              to="/ats-cv-builder"
               className="border border-[#462c38] text-[#462c38] px-6 py-3 rounded-lg hover:bg-[#462c38] hover:text-white transition"
             >
               Build ATS CV
-            </a>
+            </Link>
           </div>
 
           <div className="grid grid-cols-3 gap-6 mt-12">
