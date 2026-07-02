@@ -13,6 +13,7 @@ function Navbar() {
                     <li><Link to="/registration">Registration</Link></li>
                     <li><Link to="/ats-cv-builder">ATS CV</Link></li>
                     <li><Link to="/event-poster">Event Poster</Link></li>
+                    <li><Link to="/timeline">Timeline</Link></li>
                 </ul>
             </nav>
         </>
