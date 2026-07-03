@@ -92,6 +92,9 @@ const handleSubmit = async (e) => {
     return (
         <>
             <div className="">
+              <h1 style={{}} className="text-4xl font-bold text-[#462c38]">
+              CV Builder Form
+          </h1>
                 <div className="cautions max-w-[750px] text-center my-5 mx-auto">
                     <h3 className="text-lg font-bold">Cautions</h3>
                     <p className="text-gray-500 my-2">Be sure to check your E-mail after submitting the form</p>

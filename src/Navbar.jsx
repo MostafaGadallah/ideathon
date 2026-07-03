@@ -14,6 +14,7 @@ function Navbar() {
                     <li><Link to="/ats-cv-builder">ATS CV</Link></li>
                     <li><Link to="/event-poster">Event Poster</Link></li>
                     <li><Link to="/timeline">Timeline</Link></li>
+                    <li><Link to="/blogs">Blogs</Link></li>
                 </ul>
             </nav>
         </>

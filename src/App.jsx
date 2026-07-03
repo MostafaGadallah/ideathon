@@ -10,6 +10,7 @@ import Padge from "./Padge";
 import Scanner from "./Scanner";
 import Dashboard from "./Dashboard";
 import Timeline from "./Timeline";
+import Blog from "./Blogs";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Route path="/scanner" element={<Scanner />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/timeline" element={<Timeline />} />
+          <Route path="/blogs" element={<Blog />} />
         </Routes>
       </div>
 
